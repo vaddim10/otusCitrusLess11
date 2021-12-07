@@ -12,8 +12,8 @@ public class FirstTestGetUser extends TestNGCitrusTestRunner {
     public void getTestActions() {
         TestContext context = citrus.createTestContext();
 
-        context.setVariable("value", "superValue");
-        echo("Property \"value\" = " + context.getVariable("value"));
+        context.setVariable("value", "superValue1");
+        echo("Property \"value\" = " + context.getVariable("value1"));
 
         echo("We used userId = " + context.getVariable("userId"));
         echo("Property \"userId\" = " + "${userId}");
