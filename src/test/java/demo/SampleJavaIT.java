@@ -22,6 +22,6 @@ public class SampleJavaIT extends TestNGCitrusTestDesigner {
 
     @CitrusTest(name = "SampleJavaTest.sayHello")
     public void sayHello() {
-        echo("Hello Citrus!");
+        echo("Hello Citrus!  RDV");
     }
 }
