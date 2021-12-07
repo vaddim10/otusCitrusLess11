@@ -1,2 +1,2 @@
-# otusCitrusLess11
-Проект на Citrus по уроку 11 Otus JavaQA
+# otusCitrusLess12
+Проект на Citrus по уроку 12 Otus JavaQA
